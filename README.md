@@ -4,7 +4,7 @@
 
 **Farooq Abdul Rahim, Nithish Mohan, Ajomon Jose**
 
-> Version 1.2.2 — Theoretical framework. Implementation pending. Real data outcomes expected soon.
+> Version 1.2.3 — Theoretical framework. Implementation pending. Real data outcomes expected soon.
 
 ---
 
@@ -35,7 +35,7 @@ Each layer targets a distinct substrate, exhibits qualitatively different risk d
 
 | Component | Status |
 |-----------|--------|
-| Theoretical framework | ✅ Complete (v1.2.2) |
+| Theoretical framework | ✅ Complete (v1.2.3) |
 | Formal model (10 propositions, 12 definitions) | ✅ Complete |
 | Governance architecture | ✅ Complete |
 | Experimental validation protocol (10 experiments) | ✅ Specified |
@@ -47,7 +47,7 @@ Each layer targets a distinct substrate, exhibits qualitatively different risk d
 
 ```
 ├── paper/
-│   └── Six_Layers_Paper_v1.2.2.pdf      # Full paper (Markdown)
+│   └── Six_Layers_Paper_v1.2.3.pdf      # Full paper (Markdown)
 ├── figures/                             # ⏳ Pending
 │   ├── figure_1_six_layer_stack.svg
 │   ├── figure_2_inner_loop_bounded.svg
@@ -72,7 +72,7 @@ Ten experiments specified in the paper (Section 7). Simulation first, then inner
   title={Six Layers of Self-Improvement: A Framework for Decomposing and Governing Recursive AI Enhancement},
   author={Abdul Rahim, Farooq and Mohan, Nithish and Jose, Ajomon},
   year={2026},
-  note={v1.2.2, theoretical framework, implementation pending}
+  note={v1.2.3, theoretical framework, implementation pending}
 }
 ```
 
