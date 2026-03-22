@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pdflatex -interaction=nonstopmode main.tex)",
+      "Read(//Library/TeX/texbin/**)",
+      "Read(//opt/**)",
+      "Bash(tectonic main.tex)",
+      "Bash(fc-list)",
+      "Bash(/Library/TeX/texbin/xelatex -interaction=nonstopmode main.tex)",
+      "Bash(/Library/TeX/texbin/pdflatex -interaction=nonstopmode main.tex)"
+    ]
+  }
+}
